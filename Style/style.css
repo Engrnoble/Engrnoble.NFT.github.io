@@ -1,0 +1,95 @@
+* {
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+#container {
+    background-color: hsl(216, 50%, 16%);
+    margin: 10px auto 10px auto;
+    width: 50%;
+    border: 8px solid hsl(216, 50%, 16%);
+    border-radius: 13px; 
+    width: 320px;
+}
+
+figure {
+    width: 300px;
+    margin-left: 3px;
+}
+
+.image img {
+    border-radius: 13px;
+    width: 305px;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.figcaption {
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    padding: 10px;
+}
+
+figcaption {
+    padding: 10px;
+}
+
+.text-div {
+    padding: 10px;
+    color: hsl(215, 51%, 70%);
+}
+
+.text-div2 {
+    padding: 10px;
+    border-bottom: 1px solid hsl(215, 51%, 70%);
+}
+
+.color {
+    color: hsl(178, 100%, 50%);
+}
+
+.color2 {
+    color: hsl(215, 51%, 70%);
+    float: right;
+}
+
+.avatar-div {
+    padding: 10px;
+}
+
+.avatar-div img {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    margin-bottom: -10px;
+}
+
+.color3 {
+    color: hsl(0, 0%, 100%);
+    margin-left: 3px;
+}
+
+.move {
+    margin-left: 10px;
+}
+
+.icon-clock, .icon-eth {
+    margin-bottom: -3px;
+}
+
+.magg {
+    margin: -15px 7px;
+}
+
+a {
+    text-decoration:none;
+}
+
+a:hover {
+    color: hsl(178, 100%, 50%);
+}
